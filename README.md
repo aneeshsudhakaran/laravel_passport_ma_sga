@@ -76,3 +76,9 @@ DB_PASSWORD=secret
 - POST /password/create
 - GET /password/find/{token}
 - POST /password/reset
+
+## Loans
+- POST /requestloan
+- POST /approveloan
+- GET /myloan
+- POST /repay -<< NOT DONE
